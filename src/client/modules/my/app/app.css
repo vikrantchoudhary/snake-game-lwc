@@ -1,0 +1,11 @@
+.container {
+    width: 70vw;
+    margin: 1rem auto;
+}
+
+header {
+    line-height: 30px;
+}
+h3 {
+    text-align: center;
+}
